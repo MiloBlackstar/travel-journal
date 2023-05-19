@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, Arial;
+  background-color: #FFF;
+  display: flex;
+  justify-content: center;
+}
+
+.page {
+  width: 800px;
+  height: 1000px;
+}
